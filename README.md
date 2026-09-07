@@ -1,0 +1,1 @@
+# dotnet-standards-for-project
